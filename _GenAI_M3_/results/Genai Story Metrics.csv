@@ -1,0 +1,2 @@
+System,Adaptation,Evaluation Set,Validation Loss,Perplexity
+QLoRA-adapted Gemma-3-1B-it,QLoRA,Same held-out evaluation set,3.318760299682617,27.62608125936987

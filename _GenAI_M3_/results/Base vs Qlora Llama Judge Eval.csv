@@ -1,0 +1,13 @@
+index,model,genre,genre_fidelity,prompt_relevance,coherence,ending_quality,no_repetition,style_quality,format_following,creativity_originality,overall_score,major_issues,short_feedback
+0,base,fantasy,2,2,4,3,4,4,5,3,3.0,"['The story deviates from the expected fantasy genre, instead leaning towards a romance/ mystery genre.', 'The ending could be more complete and satisfying.']","A good effort, but the story could benefit from a stronger connection to the fantasy genre and a more complete resolution."
+1,base,romance,4,4,4,3,4,4,5,3,3.0,"['Ending feels a bit abrupt, lacking a stronger resolution']","Engaging start, but could benefit from a more satisfying conclusion"
+2,base,sci-fi,5,5,5,4,5,5,5,5,4.8,[],Engaging sci-fi story with some minor issues with the ending resolution.
+3,base,romance,5,5,5,4,5,5,5,4,4.0,['Ending could be more conclusive'],Engaging romance story with some minor issues in the ending.
+4,base,romance,5,5,5,5,5,5,5,4,4.8,[],"A well-crafted romance story with a strong narrative flow and a satisfying ending, but slightly lacking in creativity and originality."
+5,base,romance,4,3,4,2,4,4,5,3,3.0,"['Ending feels abrupt and incomplete', 'Lacks strong narrative flow']","A good start, but needs more development and a more satisfying conclusion."
+0,qlora,fantasy,4,3,4,2,4,4,5,3,3.0,"['Incomplete ending, lacks resolution', 'Could benefit from more coherence between paragraphs']","Engaging start, but fails to deliver a satisfying conclusion and could benefit from more cohesion."
+1,qlora,romance,2,3,4,2,4,4,5,3,3.0,"['The story does not follow the romance genre as closely as expected, and the ending feels somewhat abrupt.']","A good start, but the story could benefit from a stronger focus on romance and a more satisfying conclusion."
+2,qlora,sci-fi,5,5,4,4,5,5,5,4,4.0,['ending could be more conclusive'],"Engaging sci-fi story with vivid descriptions, but the ending feels slightly abrupt."
+3,qlora,romance,2,3,2,1,2,2,1,2,2.0,"['Incoherent narrative flow', 'Incomplete ending']","The story has some elements of romance, but it lacks coherence and a satisfying conclusion."
+4,qlora,romance,4,5,4,4,4,5,5,3,4.0,['Ending could be more satisfying and less rushed'],Engaging romance story with some minor issues in pacing and resolution.
+5,qlora,romance,2,2,3,2,2,2,4,1,2.0,"['Lack of clear connection to the prompt', 'Incoherent narrative flow']",The story fails to engage with the prompt and has a disjointed narrative.
